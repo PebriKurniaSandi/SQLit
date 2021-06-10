@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">exercise2</string>
+    <string name="simpan">Simpan</string>
+    <string name="nama">Nama</string>
+    <string name="name">Name</string>
+    <string name="name">Name</string>
+    <string name="telpon">Telpon</string>
+    <string name="telpon">Telpon</string>
+    <string name="textview">textview</string>
+    <string name="update">update</string>
+</resources>
